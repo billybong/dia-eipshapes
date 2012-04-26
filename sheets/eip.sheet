@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1"?> <!-- -*- xml -*- -->
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Integration</name>
+  <description>Enterprise integration sheets</description>
+  <contents>
+    <object name="Aggregator">
+      <description>Aggregator</description>
+    </object>
+    <object name="ClaimCheck">
+      <description>ClaimCheck</description>
+    </object>
+    <object name="CompetingConsumer">
+      <description>CompetingConsumer</description>
+    </object>
+    <object name="ComposedMessageProcessor">
+      <description>ComposedMessageProcessor</description>
+    </object>
+    <object name="ContentBasedRouter">
+      <description>ContentBasedRouter</description>
+    </object>
+    <object name="ContentEnricher">
+      <description>ContentEnricher</description>
+    </object>
+    <object name="ContentFilter">
+      <description>ContentFilter</description>
+    </object>
+    <object name="CorrelationIdentifier">
+      <description>CorrelationIdentifier</description>
+    </object>
+    <object name="DeadLetterChannel">
+      <description>DeadLetterChannel</description>
+    </object>
+    <object name="Detour">
+      <description>Detour</description>
+    </object>
+    <object name="DurableSubscriber">
+      <description>DurableSubscriber</description>
+    </object>
+    <object name="DynamicRouter">
+      <description>DynamicRouter</description>
+    </object>
+    <object name="EventDrivenConsumer">
+      <description>EventDrivenConsumer</description>
+    </object>
+    <object name="EventMessage">
+      <description>EventMessage</description>
+    </object>
+    <object name="GuaranteedDelivery">
+      <description>GuaranteedDelivery</description>
+    </object>
+    <object name="Message">
+      <description>Message</description>
+    </object>
+    <object name="MessageBus">
+      <description>MessageBus</description>
+    </object>
+    <object name="MessageChannel">
+      <description>MessageChannel</description>
+    </object>
+    <object name="MessageDispatcher">
+      <description>MessageDispatcher</description>
+    </object>
+    <object name="MessageEndpoint">
+      <description>MessageEndpoint</description>
+    </object>
+    <object name="MessageFilter">
+      <description>MessageFilter</description>
+    </object>
+    <object name="MessageRouter">
+      <description>MessageRouter</description>
+    </object>
+    <object name="MessageTranslator">
+      <description>MessageTranslator</description>
+    </object>
+    <object name="MessagingGataway">
+      <description>MessagingGataway</description>
+    </object>
+    <object name="Normalizer">
+      <description>Normalizer</description>
+    </object>
+    <object name="PipeAndFilters">
+      <description>PipeAndFilters</description>
+    </object>
+    <object name="Pipeline">
+      <description>Pipeline</description>
+    </object>
+    <object name="PointToPoint">
+      <description>PointToPoint</description>
+    </object>
+    <object name="PollingConsumer">
+      <description>PollingConsumer</description>
+    </object>
+    <object name="PublishAndSubscribe">
+      <description>PublishAndSubscribe</description>
+    </object>
+    <object name="RecipientList">
+      <description>RecipientList</description>
+    </object>
+    <object name="RequestReply">
+      <description>RequestReply</description>
+    </object>
+    <object name="Resequencer">
+      <description>Resequencer</description>
+    </object>
+    <object name="ReturnAddress">
+      <description>ReturnAddress</description>
+    </object>
+    <object name="RoutingSlip">
+      <description>RoutingSlip</description>
+    </object>
+    <object name="SelectiveConsumer">
+      <description>SelectiveConsumer</description>
+    </object>
+    <object name="ServiceActivator">
+      <description>ServiceActivator</description>
+    </object>
+    <object name="Splitter">
+      <description>Splitter</description>
+    </object>
+    <object name="StaticRecipeintList">
+      <description>StaticRecipeintList</description>
+    </object>
+    <object name="TransactionalClient">
+      <description>TransactionalClient</description>
+    </object>
+    <object name="WireTap">
+      <description>WireTap</description>
+    </object>
+    <object name="XpathSplitter">
+      <description>XpathSplitter</description>
+    </object>
+  </contents>
+</sheet>

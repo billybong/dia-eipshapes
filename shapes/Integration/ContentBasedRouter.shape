@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>ContentBasedRouter</name>
+  <icon>./thumbnails/ContentBasedRouter.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="0" y="0" width="4.2" height="2.55" xlink:href="./img/ContentBasedRouter.PNG"/>
+  </svg:svg>
+</shape>
