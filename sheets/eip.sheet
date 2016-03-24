@@ -27,6 +27,9 @@
     <object name="CorrelationIdentifier">
       <description>CorrelationIdentifier</description>
     </object>
+	<object name="DataMessage">
+      <description>DataMessage</description>
+    </object>
     <object name="DeadLetterChannel">
       <description>DeadLetterChannel</description>
     </object>
